@@ -1,1 +1,3 @@
 # LSTM-Stock-pricing
+The objective of the report is to offer a comprehensive introduction to the fundamental concept of recurrent neural networks and the limitations they face in capturing long-range dependencies. It then dives into the LSTM working on the concept of stock prediction and analysis via RNN usage.
+The report highlights the advantages of LSTM over traditional RNNs, emphasizing its ability to model and predict complex sequential patterns. Various applications of LSTM are explored, including natural language processing, speech recognition, time series analysis, and sentiment analysis. The report showcases real-world use cases in each domain, demonstrating LSTM's efficacy in tasks like stock market prediction.
